@@ -12,6 +12,7 @@ _¿Para quiénes es esta propuesta? → usuarios extremos y usuarios promedio_
 _¿Qué existe que es similar a la propuesta? → antecedentes_
 
 +  [Christopher Ireland](https://www.christopherireland.net/?ref=godly) → minimalista. Resulta interesante cómo se incorporan frases cada vez que se pasa el mouse por las palabras, se ve distintivo.
-+ https://carlbeaverson.com/?ref=godly 
-+ https://space10.com/
++ [Car Beaverson](https://carlbeaverson.com/?ref=godly)
++ [Space 10](https://space10.com/)
++ [JustType](https://justtype.framer.website/theme-two?via=onepagelove)
 
