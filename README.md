@@ -16,5 +16,5 @@ _Poner aqui lo de las protopersonas que se hará en miro_
 + https://www.christopherireland.net/?ref=godly → minimalista. Resulta interesante cómo se incorporan frases cada vez que se pasa el mouse por las palabras, se ve distintivo.
 <br>
 + https://carlbeaverson.com/?ref=godly 
-![Uploading Captura de Pantalla 2023-11-08 a la(s) 12.15.08.png…]()
++ 
 
