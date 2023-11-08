@@ -5,7 +5,7 @@ _¿Para qué es esta propuesta? → objetivo general_
 
 _¿Para quiénes es esta propuesta? → usuarios extremos y usuarios promedio_
 
-![img]: (https://github.com/isacicarelli/isacicarelli/blob/ef73c484b5d10ab079e47e6d1e335a5c2794372f/DT1.jpg)
+![img](https://github.com/isacicarelli/isacicarelli/blob/ef73c484b5d10ab079e47e6d1e335a5c2794372f/DT1.jpg)
 
 
 + Usuario extremo: personas que no les gusta el anime y lo rechazan tajantemente
