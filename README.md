@@ -13,6 +13,6 @@ _Poner aqui lo de las protopersonas que se hará en miro_
 <br>
 ¿Qué existe que es similar a la propuesta? → antecedentes
 <br>
-– https://www.christopherireland.net/?ref=godly → minimalista. Resulta interesante cómo se incorporan frases cada vez que se pasa el mouse por las palabras, se ve distintivo.
+– [Página 1] (https://www.christopherireland.net/?ref=godly) → minimalista. Resulta interesante cómo se incorporan frases cada vez que se pasa el mouse por las palabras, se ve distintivo.
 <br>
 – https://carlbeaverson.com/?ref=godly → 
