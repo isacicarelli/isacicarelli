@@ -1,9 +1,9 @@
 # **Propuesta final** <br>
-¿Para qué es esta propuesta? → objetivo general
+_¿Para qué es esta propuesta? → objetivo general_
 
   + Desarrollar una página web que agrupe las distintas películas de Studio Ghibli
 
-¿Para quiénes es esta propuesta? → usuarios extremos y usuarios promedio
+_¿Para quiénes es esta propuesta? → usuarios extremos y usuarios promedio_
 
 + Usuario extremo: personas que no les gusta el anime y lo rechazan tajantemente
 
