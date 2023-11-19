@@ -20,5 +20,5 @@ _¿Qué existe que es similar a la propuesta? → antecedentes_
 + [JustType](https://justtype.framer.website/theme-two?via=onepagelove)
 
 _¿Qué existe que puede inspirar la propuesta? → referentes_
-
+![img](https://github.com/isacicarelli/isacicarelli/blob/c0c07df62e4cf1e0dac0ae2c3010e97cd73a54d4/Disen%CC%83o%20sin%20ti%CC%81tulo.png)
 
