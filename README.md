@@ -19,3 +19,6 @@ _¿Qué existe que es similar a la propuesta? → antecedentes_
 + [Space 10](https://space10.com/)
 + [JustType](https://justtype.framer.website/theme-two?via=onepagelove)
 
+_¿Qué existe que puede inspirar la propuesta? → referentes_
+
+
