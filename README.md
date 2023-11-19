@@ -1,7 +1,7 @@
 # **Propuesta final** <br>
 _¿Para qué es esta propuesta? → objetivo general_
 
-  + Desarrollar una página web que agrupe las distintas películas de Studio Ghibli
+  + Desarrollar una página web que agrupe las distintas películas de Studio Ghibli y su estética visual. Se agruparán las películas para mostrar la estética que tienen estas
 
 _¿Para quiénes es esta propuesta? → usuarios extremos y usuarios promedio_
 
@@ -10,7 +10,7 @@ _¿Para quiénes es esta propuesta? → usuarios extremos y usuarios promedio_
 
 + Usuario extremo: personas que no les gusta el anime y lo rechazan tajantemente
 
-+ Usuario promedio: persona que le guste ver anime y buscan recomendaciones en distintas redes sociales
++ Usuario promedio: persona que le guste ver anime y gozan de las visuales en 2D.
 
 _¿Qué existe que es similar a la propuesta? → antecedentes_
 
