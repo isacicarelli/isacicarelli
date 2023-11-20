@@ -1,16 +1,15 @@
 # **Propuesta final** <br>
 _¿Para qué es esta propuesta? → objetivo general_
 
-  + Desarrollar una página web que agrupe las distintas películas de Studio Ghibli y su estética visual. Se agruparán las películas para mostrar la estética que tienen estas
+  + Desarrollar una página web que agrupe las distintas películas de Studio Ghibli y su estética visual. Se agruparán las películas para mostrar la estética que tienen estas y que sea un museo interactivo.
 
 _¿Para quiénes es esta propuesta? → usuarios extremos y usuarios promedio_
 
 ![img](https://github.com/isacicarelli/isacicarelli/blob/ef73c484b5d10ab079e47e6d1e335a5c2794372f/DT1.jpg)
 
-
 + Usuario extremo: personas que no les gusta el anime y lo rechazan tajantemente
 
-+ Usuario promedio: persona que le guste ver anime y gozan de las visuales en 2D.
++ Usuario promedio: persona que le guste ver anime y gozan de las visuales en 2D. Les gustan las visuales que tienen estas películas
 
 _¿Qué existe que es similar a la propuesta? → antecedentes_
 
